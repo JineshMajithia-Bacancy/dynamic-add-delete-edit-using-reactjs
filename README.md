@@ -1,2 +1,2 @@
-# Dynamin Add, Delete and Edit using ReactJS
+# Dynamic Add, Delete and Edit using ReactJS
  
