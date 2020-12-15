@@ -1,0 +1,21 @@
+.main{
+    font-size: 20px;
+    text-align: center;
+}
+
+.button{
+    font-size: 20px;
+    border: medium;
+}
+
+.text{
+    font-size: 20px;
+}
+
+.table{
+    align-self: center;
+    border: 1px;
+    font-size: 25px;
+    padding: 10px;
+    box-sizing: 50px;
+}
